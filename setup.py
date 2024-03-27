@@ -184,7 +184,7 @@ setup(
         'Environment :: Web Environment',
         'Development Status :: 5 - Production/Stable',
     ],
-    platforms=['macOS', 'POSIX', 'Windows'],
+    platforms=['any'],
     python_requires='>=3.8.0',
     zip_safe=False,
     author='Yury Selivanov',
